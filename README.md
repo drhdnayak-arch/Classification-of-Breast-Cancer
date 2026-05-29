@@ -33,11 +33,11 @@ using soft voting strategy for final prediction.
 # Dataset
 Dataset Used:
 
-Wisconsin Diagnostic Breast Cancer (WDBC) Dataset
+  Wisconsin Diagnostic Breast Cancer (WDBC) Dataset
 
 Source:
 
-UCI Machine Learning Repository
+  UCI Machine Learning Repository
 
 Dataset Characteristics:
 * Total samples: 569
@@ -143,10 +143,12 @@ The implementation generates:
 *	Reduced computational complexity
 *	Enhanced robustness and generalization
 
-Project Structure
-* main.py
-* README.md
-* requirements.txt
-* dataset/
-* outputs/
-* figures/
+# Project Structure
+
+```text
+├── main.py
+├── README.md
+├── requirements.txt
+├── dataset/
+├── outputs/
+└── figures/
